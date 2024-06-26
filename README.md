@@ -84,22 +84,28 @@ For any inquiries, please visit our [website](https://arn-engineering-solution.w
 
 ---
 **Screenshots**
+
 **Main Page White Theme**
 ![arn1](https://github.com/apoorvatomar/ARN_Engineering_Solution/assets/106930291/2d2256a5-5dbe-4537-a7a6-7265286b9d5a)
 
 **Main Page Black Theme**
 ![arn2](https://github.com/apoorvatomar/ARN_Engineering_Solution/assets/106930291/f4979fd7-3a4c-4966-a49c-00c68c45a453)
+
 **About Us**
-![arn2](https://github.com/apoorvatomar/ARN_Engineering_Solution/assets/106930291/e7dfdf2d-3c2d-49e9-8cd2-ea8e23b7e3d1)
+![anr3](https://github.com/apoorvatomar/ARN_Engineering_Solution/assets/106930291/9091f9c3-2ad7-469a-904a-0c03c27b7532)
+
 **Deals in HSN Code**
 ![arn4](https://github.com/apoorvatomar/ARN_Engineering_Solution/assets/106930291/9c4f26c9-8e89-4327-ac61-99ec2aa27dcf)
 
 **Products**
 ![arn5](https://github.com/apoorvatomar/ARN_Engineering_Solution/assets/106930291/5eff15f3-5abf-4e97-ab8f-607f03ab4ef1)
+
 **Contact Us**
 ![arn6](https://github.com/apoorvatomar/ARN_Engineering_Solution/assets/106930291/06068c50-2aab-4eeb-b770-70d15e3784a8)
+
 **Footer**
 ![arn7](https://github.com/apoorvatomar/ARN_Engineering_Solution/assets/106930291/b901203a-19d5-4096-9b8b-99d3448b0251)
+
 **Details**
 ![arn8](https://github.com/apoorvatomar/ARN_Engineering_Solution/assets/106930291/1135ce37-d71a-40c9-8369-25c82080c6de)
 
